@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MpMqa5+JiCNrGw/eqxlyr2lePSRyO1XWyd4Y/sOldJvnx/3iynXWuDrKhkfHHXGPqmyclH5e/4zKAHy+csN9hg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\berez\\OneDrive\\Рабочий стол\\MQTTbroker_ESP8266\\MQTTbroker_ESP8266\\MQTTbroker_ESP8266\\MQTTbroker_ESP8266.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\berez\\.nuget\\packages\\mqttnet\\3.0.16\\mqttnet.3.0.16.nupkg.sha512",
+    "C:\\Users\\berez\\.nuget\\packages\\mqttnet.extensions.managedclient\\3.0.16\\mqttnet.extensions.managedclient.3.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
