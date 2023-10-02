@@ -13,7 +13,7 @@ MQTT клиент – это любое устройство (к примеру,
 - [x] Получать и отправлять данные (Json).
 - [ ] Создать веб-приложение.
 
-Библиотеки:
+Библиотеки:        
 Install-Package MQTTnet -Version 3.0.16          
 Install-Package MQTTnet.Extensions.ManagedClient -Version 3.0.16
 
